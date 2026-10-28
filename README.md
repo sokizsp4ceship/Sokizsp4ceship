@@ -13,7 +13,7 @@
 </math>
     
 <mtext mathcolor="#565450">&nbsp;ⲉησυⳋнㅤ</mtext>
-<mtext mathcolor="#8c825a">&nbsp;𝗺𝗼͟𝗻͟𝗲͟𝘆͟ㅤ</mtext>
+<mtext mathcolor="#8c825a">&nbsp;𝗺𝗼𝒏𝒆𝒚ㅤ</mtext>
 <mtext mathcolor="#a89b60">&nbsp;ɬơㅤ</mtext>
 <mtext mathcolor="#a89b60">&nbsp;⳽ⳏⲉⲛ𝖽ㅤ</mtext>
 <mtext mathcolor="#a89b60">&nbsp;? ྃㅤ</mtext>
