@@ -32,8 +32,8 @@
 <p align="center">
 <img src="https://file.garden/aD-jsL8SzQvp8mjK/image_2026-10-16_123318674.png" width="650">
 <div align="center">
-<img src="https://dghuy.carrd.co/assets/images/gallery01/5ecf3f41.png?v=5dea4696" width="650">
-
+<img src="https://dghuy.carrd.co/assets/images/gallery01/4649b779.png?v=1292fca9" width="650">
+<img src="https://dghuy.carrd.co/assets/images/gallery02/774fa53c.gif?v=298040d8" width="650">
 
 <!--
 **sokizsp4ceship/Sokizsp4ceship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
