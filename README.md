@@ -32,7 +32,7 @@
 <p align="center">
 <img src="https://file.garden/aD-jsL8SzQvp8mjK/image_2026-10-16_123318674.png" width="650">
 <div align="center">
-<img src="https://dghuy.carrd.co/assets/images/gallery01/49ef400b.png?v=b31cb8ff" width="650">
+<img src="https://dghuy.carrd.co/assets/images/gallery01/5ecf3f41.png?v=5dea4696" width="650">
 
 
 <!--
