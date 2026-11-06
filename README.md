@@ -23,7 +23,7 @@
 </tr>
 </table>
   <p align="center"> 
-<img src="https://file.garden/aD-jsL8SzQvp8mjK/Untitled21_20261028173523.png" width="650"> 
+<img src="https://dghuy.carrd.co/assets/images/gallery03/fe14be45.png?v=074f90a6" width="650"> 
     
 Ɩıŋƙ⳽
 
