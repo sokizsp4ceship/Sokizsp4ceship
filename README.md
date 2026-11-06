@@ -1,3 +1,5 @@
+<img src="https://dghuy.carrd.co/assets/images/gallery02/774fa53c.gif?v=298040d8" width="650">
+
 <p align="center">
 <img src="https://file.garden/aD-jsL8SzQvp8mjK/image_2026-10-16_123318674.png" width="650">
 <div align="center">
